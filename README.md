@@ -1,14 +1,15 @@
 # Hi! I'm Alex.
 
 
-- 👋 @al-villanueva, soon to be PhD candidate in Germany.
+- 👋 @al-villanueva, PhD candidate in Germany.
 - 👀 I’m interested in data science, machine learning, analytics dashboard and ML solution design, configuration and selection.
 - 🌱 I’m currently learning how to lead development teams and bring together multi-language prototypes.
 
 
 ## Main Repos
 - AssistML
-- tba...
+- ML Solution Designer (AD4ML)
+- ML Solution Viewer
 
 
 ## Main Technologies
